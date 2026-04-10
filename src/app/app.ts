@@ -6,7 +6,7 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatListModule } from '@angular/material/list';
 import { MatIconModule } from '@angular/material/icon';
 import { MatButtonModule } from '@angular/material/button';
-
+import { MatTooltipModule } from '@angular/material/tooltip';
 
 // Re-export models for backward compatibility
 export type { Product } from './models/product.model';
